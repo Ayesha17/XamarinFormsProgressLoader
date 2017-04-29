@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{434C21E6-8436-48C9-A9A6-28CC1A234AC5}|Default">
+  <MonoDevelop.Ide.ItemProperties.ProgressSample.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.BF180A6F-A3F7-4B54-9045-DE1090465A4E" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProgressSample/ProgressSamplePage.xaml.cs">
+    <Files>
+      <File FileName="ProgressSample/ProgressSamplePage.xaml" Line="10" Column="1" />
+      <File FileName="ProgressSample/ProgressSamplePage.xaml.cs" Line="14" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
